@@ -10,6 +10,8 @@ Doki does not sell your personal data. Doki does not upload local files without 
 Users may clear local chat history, memory, and settings in the application at any time.
 
 If you have questions, please contact:1220272753@qq.com
+
+
 Doki 隐私政策
 
 Doki 尊重并保护用户隐私。本应用会在用户本地设备上保存应用设置、角色设置、聊天记录、记忆数据和语音配置。
@@ -20,5 +22,4 @@ Doki 不会出售用户个人数据，不会在未经用户操作的情况下上
 
 用户可以随时在应用中清除本地聊天记录、记忆和相关设置。
 
-如有问题，请联系：
-你的邮箱 1220272753@qq.com
+如有问题，请联系：1220272753@qq.com
